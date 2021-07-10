@@ -1,8 +1,8 @@
-baseurl = "https://shixiangwang.github.io/home/"
+baseurl = "https://www.ileump.com"
 RelativeURLs=true
 CanonifyURLs=true
 languageCode = "en-us"
-title = "Shixiang Wang | 王诗翔"
+title = "Hao ZHU | 朱浩"
 theme = "hugo-ivy"
 #googleAnalytics = "UA-112592341-1"
 #disqusShortname = "home-xjdzylqrzp"
