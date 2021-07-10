@@ -1,4 +1,4 @@
-baseurl = "https://www.ileump.com"
+baseurl = "https://ileump.com"
 RelativeURLs=true
 CanonifyURLs=true
 languageCode = "en-us"
@@ -196,7 +196,7 @@ publishDir = "docs"
     weight = 14
 
 [params]
-    description = "Personal website of Shixiang Wang; 王诗翔的个人网站"
+    description = "Personal website of Hao ZHU; 朱浩的个人网站"
     enableGitalk = true
     #disqusURL = "https://shixiangwang.github.io/home/"
     customJS = ["js/fix-toc.js", "js/center-img.js", "js/right-quote.js", "js/no-highlight.js", "js/fix-footnote.js", "js/math-code.js", "js/external-link.js", "js/alt-title.js", "js/header-link.js"]
@@ -227,8 +227,8 @@ publishDir = "docs"
     cn   = "[<i class='far fa-envelope fa-1x'></i>](mailto:w_shixiang@163.com) &middot; [<i class='fab fa-github fa-1x'></i>](https://github.com/ShixiangWang) &middot; [<i class='fab fa-stack-overflow fa-1x'></i>](https://stackoverflow.com/users/7662327/shixiang-wang) &middot; [<i class='ai ai-google-scholar ai-1x'></i>](https://scholar.google.com/citations?user=FvNp0NkAAAAJ&hl=zh-CN) &middot; [<i class='ai ai-orcid ai-1x'></i>](https://orcid.org/0000-0001-9855-7357) &middot; [<i class='ai ai-researchgate ai-1x'></i>](https://www.researchgate.net/profile/Wang_Shixiang4) <br> 本站由 [Hugo](https://gohugo.io) 和 [Blogdown](https://bookdown.org/yihui/blogdown/) 强力驱动 &copy; [王诗翔](/) 2017 - 2020"
 
 [params.author]
-    en = "Shixiang Wang"
-    cn = "王诗翔"
+    en = "Hao ZHU"
+    cn = "朱浩"
 
 [params.categories]
     en = "Categories"
@@ -239,9 +239,9 @@ publishDir = "docs"
     cn = "标签"
 
 [params.logo.en]
-    img = "/logo/ShixiangWang.png"
-    url = "/logo/ShixiangWang.png"
-    alt = "Shixiang Wang"
+    img = "/logo/HaoZHU.jpg"
+    url = "/logo/HaoZHU.jpg"
+    alt = "Hao ZHU"
     tag = ""
 
 [params.lang.edit]
