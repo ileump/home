@@ -239,8 +239,8 @@ publishDir = "docs"
     cn = "标签"
 
 [params.logo.en]
-    img = "/logo/HaoZHU.png"
-    url = "/logo/HaoZHU.png"
+    img = "/logo/HaoZHU1.png"
+    url = "/logo/HaoZHU1.png"
     alt = "Hao ZHU"
     tag = ""
 
